@@ -3,7 +3,10 @@
   "logo": {
     "type": "file",
     "source": "/home/zieno/.config/fastfetch/logo/*",
-    "height": 18
+    "height": 18,
+    "padding": {
+      "top": 1
+    }
   },
   "display": {
     "separator": " : "
